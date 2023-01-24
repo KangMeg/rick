@@ -1,0 +1,25 @@
+body {
+    background-color: #5F9EA0;
+    /*zmiana koloru tła*/
+    color: #500000;
+    /*zmiana koloru czcionki*/
+}
+
+p {
+    background-color: #5694a9;
+}
+
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: pink;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: white;
+}
